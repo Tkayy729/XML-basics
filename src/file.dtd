@@ -1,0 +1,10 @@
+<!ELEMENT filesystem (file)*>
+        <!ELEMENT file (permissions,numberOfLinks,owner,groupOwner,size,timeOfContent)>
+        <!ELEMENT permissions (#PCDATA)>
+        <!ELEMENT numberOfLinks (#PCDATA)>
+        <!ELEMENT owner (#PCDATA)>
+        <!ELEMENT groupOwner (#PCDATA)>
+        <!ELEMENT size (#PCDATA)>
+        <!ELEMENT timeOfContent (#PCDATA)>
+
+

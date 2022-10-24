@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="Big5" ?>
+
+<filesystem>
+    <file>
+        <permissions> drwxrwxr-x </permissions>
+        <numberOfLinks> 2 </numberOfLinks>
+        <owner> evad </owner>
+        <groupOwner> cc3591 </groupOwner>
+        <size> 8192 </size>
+        <timeOfContent> Oct 29  2001 </timeOfContent>
+        <file> play </file>
+    </file>
+    <file>
+        <permissions> -rw-rw-r-- </permissions>
+        <numberOfLinks> 1 </numberOfLinks>
+        <owner> evad </owner>
+        <groupOwner> cc3591 </groupOwner>
+        <size> 5539  </size>
+        <timeOfContent> Jul 27  2000 </timeOfContent>
+        <file> resist </file>
+    </file>
+    <file>
+        <permissions> -rw-rw-r-- </permissions>
+        <numberOfLinks> 1 </numberOfLinks>
+        <owner> evad </owner>
+        <groupOwner> cc3591 </groupOwner>
+        <size> 88  </size>
+        <timeOfContent> Sep 28  2001 </timeOfContent>
+        <file> rory2.html </file>
+    </file>
+    <file>
+        <permissions> -rwxrwxr-x  </permissions>
+        <numberOfLinks> 1 </numberOfLinks>
+        <owner> evad </owner>
+        <groupOwner> cc3591 </groupOwner>
+        <size> 1902   </size>
+        <timeOfContent> May 18  2001 </timeOfContent>
+        <file> rory.cgi </file>
+    </file>
+
+</filesystem>
